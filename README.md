@@ -19,11 +19,13 @@ Channel Performance:
 <br>
 •	How does the sales distribution differ between channels?
 <br>
+<br>
 Product Performance:
 <br>
 •	Which product category was the most popular?
 <br>
 •	Which product category generated the highest revenue?
+<br>
 <br>
 Customer Behaviour:
 <br>
@@ -33,11 +35,13 @@ Customer Behaviour:
 <br>
 •	What is the average order value by age group?
 <br>
+<br>
 Order Fulfilment:
 <br>
 •	What percentage of orders were shipped on time?
 <br>
 •	What is the average delivery time?
+<br>
 <br>
 Geographic Insights:
 <br>
