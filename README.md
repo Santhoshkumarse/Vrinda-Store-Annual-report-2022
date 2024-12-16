@@ -9,22 +9,39 @@ Overall Performance:
 •	What was the total sales for the year 2022?
 <br>
 •	What was the average order value?
+<br>
 •	How many orders were placed in total?
+<br>
 Channel Performance:
+<br>
 •	Which sales channel (online, in-store) generated the most revenue?
+<br>
 •	How does the sales distribution differ between channels?
+<br>
 Product Performance:
+<br>
 •	Which product category was the most popular?
+<br>
 •	Which product category generated the highest revenue?
+<br>
 Customer Behaviour:
+<br>
 •	How many male vs. female customers placed orders?
+<br>
 •	What is the age distribution of customers?
+<br>
 •	What is the average order value by age group?
+<br>
 Order Fulfilment:
+<br>
 •	What percentage of orders were shipped on time?
+<br>
 •	What is the average delivery time?
+<br>
 Geographic Insights:
+<br>
 •	Which state had the highest sales volume?
+<br>
 •	Are there any regional trends in customer behaviour?
 
 ## Dashboard Interaction
