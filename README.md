@@ -5,7 +5,9 @@ The objective of the project is to analyze and visualize the store's annual sale
 - <a href="https://github.com/Santhoshkumarse/Vrinda-Store-Annual-report-2022/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset</a>
 ## Questions for KPI
 Overall Performance:
+<br>
 •	What was the total sales for the year 2022?
+<br>
 •	What was the average order value?
 •	How many orders were placed in total?
 Channel Performance:
