@@ -12,6 +12,7 @@ Overall Performance:
 <br>
 •	How many orders were placed in total?
 <br>
+<br>
 Channel Performance:
 <br>
 •	Which sales channel (online, in-store) generated the most revenue?
